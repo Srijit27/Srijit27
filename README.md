@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning **HTML, CSS, JavaScript.**
 
 - 📫 You can reach me at **rsrijit436@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
