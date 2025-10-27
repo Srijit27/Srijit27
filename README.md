@@ -1,5 +1,5 @@
-# 💫 This is Srijit Roy
-🔭 I’m currently working on Spiking Neural Networks, ML Algorithms along side Frontend development.<br>🌱 I’m currently learning HTML, CSS, JavaScript.<br>📫 You can reach me at rsrijit436@gmail.com
+# This is Srijit Roy
+🔭 I’m currently working on Spiking Neural Networks, ML Algorithms along side Frontend development.<br>🌱 I’m currently learning HTML5, CSS3, JavaScript.<br>📫 You can reach me at rsrijit436@gmail.com
 
 
 ## 🌐 Socials:
@@ -11,8 +11,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Srijit27&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Srijit27&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Srijit27&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Srijit27&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
