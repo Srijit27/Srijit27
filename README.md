@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Undergrad @ HITK | Web Development | ML Enthusiast | Building scalable applications
 --------------------------------------------------------------------------------------
 
-I am a Pre-final year BTech student in Computer Science at Heritage Institute of Technology. With a keen interest in CS fundamentals and a strong aspire for Frontend Development, I enforce myself into real world problem solving using code. I enjoy doing DSA and have a keen interest in Machine Learning alongside Algorithms. I intend to deliver scalable products and drive impact through my expertise in the varying domains.
+I am a final year BTech student in Computer Science at Heritage Institute of Technology. With a keen interest in CS fundamentals and a strong aspire for Frontend Development, I enforce myself into real world problem solving using code. I enjoy doing DSA and have a keen interest in Machine Learning alongside Algorithms. I intend to deliver scalable products and drive impact through my expertise in the varying domains.
 
 * 🌍  I'm based in Kolkata, India.
 * ✉️  You can contact me at [rsrijit436@gmail.com](mailto:rsrijit436@gmail.com)
