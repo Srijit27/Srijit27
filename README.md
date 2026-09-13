@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Srijit Roy
 ===================================================================================================================================
 
-CS Undergrad @ HITK | Web Development | ML Enthusiast | Building scalable applications
+CS Undergrad @ HITK | Web Development | Software Engineering | ML Enthusiast | Building scalable applications
 --------------------------------------------------------------------------------------
 
 I am a final year BTech student in Computer Science at Heritage Institute of Technology. With a keen interest in CS fundamentals and a strong aspire for Frontend Development, I enforce myself into real world problem solving using code. I enjoy doing DSA and have a keen interest in Machine Learning alongside Algorithms. I intend to deliver scalable products and drive impact through my expertise in the varying domains.
